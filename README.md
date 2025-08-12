@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm [Your Name]
+# I'm Odinaka
 
 > *Building the future of AI and finance, one algorithm at a time.*
 
-## 🎯 What I'm About
+## What I'm About
 
 **Data Scientist & AI Engineer** obsessed with turning data into alpha. Currently architecting AI systems that make sense of the world's messiest datasets while building the next generation of financial technology.
 
@@ -18,24 +18,24 @@ class DataScientist:
     
     def daily_routine(self):
         return [
-            "🧠 Train models that beat benchmarks",
-            "📊 Find patterns others miss", 
-            "🚀 Deploy systems that scale",
-            "💰 Generate alpha for clients"
+            "Train models that beat benchmarks",
+            "Find patterns others miss", 
+            "Deploy systems that scale",
+            "Generate alpha for clients"
         ]
 ```
 
-## 🔥 Current Projects
+## Current Projects
 
-🤖 **AI-Powered Semantic Search Engine** - Multi-modal search across visual datasets using CLIP, BLIP, and custom algorithms
+**AI-Powered Semantic Search Engine** - Multi-modal search across visual datasets using CLIP, BLIP, and custom algorithms
 
-📈 **Quantitative Trading Platform** - Building systematic strategies that consistently outperform market benchmarks
+**Quantitative Trading Platform** - Building systematic strategies that consistently outperform market benchmarks
 
-🏢 **Enterprise Data Platform** - NLP-first approach to making any dataset instantly accessible and actionable
+**Enterprise Data Platform** - NLP-first approach to making any dataset instantly accessible and actionable
 
-💼 **Private Equity Analytics** - Applying ML to identify undervalued SME opportunities and operational improvements
+**Private Equity Analytics** - Applying ML to identify undervalued SME opportunities and operational improvements
 
-## 🛠️ Tech Arsenal
+## 🛠Tech Arsenal
 
 **Languages:** `Python` `R` `SQL` `C++` *(learning)*
 
@@ -47,41 +47,29 @@ class DataScientist:
 
 **Domains:** `Computer Vision` `NLP` `Time Series` `Credit Risk` `Alternative Data`
 
-## 📊 By The Numbers
 
-- 🏆 **500+** students taught blockchain and investment strategies
-- 🎯 **Multiple** Kaggle competitions with consistent performance
-- 🚀 **Real-time** AI systems serving production traffic
-- 💡 **3** companies founded (AI startup, PE firm, consulting)
-- 📚 **CFA Level I** candidate with deep markets expertise
-
-## 🎓 Learning Never Stops
+## Learning Never Stops
 
 Currently diving deep into:
-- Advanced credit risk modeling techniques
-- Distributed computing with PySpark
-- Quantitative finance applications in AI
-- Building MLOps pipelines that actually work
+- Quant work 
 
-## 💭 Philosophy
+## Philosophy
 
-*"The best algorithms don't just process data—they reveal truth hidden in the noise. Every model is a hypothesis about how the world works. Every backtest is a conversation with reality."*
 
-## 🤝 Let's Build Something Amazing
+## Let's Build Something Amazing
 
 Always open to collaborating on projects that push the boundaries of what's possible with data and AI.
 
 **Especially interested in:**
-- 🔬 Research collaborations in AI/ML
-- 💼 Fintech and quantitative finance projects  
-- 🚀 Startup opportunities in data/AI space
-- 📚 Speaking and teaching opportunities
+- Research collaborations in AI/ML
+- Fintech and quantitative finance projects  
+- Startup opportunities in data/AI space
+- Speaking and teaching opportunities
 
-## 📫 Get In Touch
+## Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prince4albert@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tinyurl.com/odinaka-portfolio)
 
 ---
 
