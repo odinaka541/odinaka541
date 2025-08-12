@@ -73,8 +73,8 @@ Always open to collaborating on projects that push the boundaries of what's poss
 
 ---
 
-*"In a world drowning in data, the future belongs to those who can teach machines to swim."* 🌊
+*"In a world drowning in data, the future belongs to those who can teach machines to swim."*
 
-⭐ **Fun fact:** I once explained blockchain to 500 people and somehow they all understood it. That's when I knew I had a gift for making complex things simple.
+**Fun fact:** I once explained blockchain to 500+ people and somehow they all understood it. That's when I knew I had a gift for making complex things simple.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
