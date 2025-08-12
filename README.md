@@ -14,7 +14,7 @@ class DataScientist:
         self.passion = ["Machine Learning", "Quantitative Finance", "AI Systems"]
         self.current_focus = "Building production ML that actually works"
         self.side_quest = "Turning financial markets into predictable patterns"
-        self.coffee_consumption = "Dangerously high ☕"
+        self.coffee_consumption = "Dangerously high"
     
     def daily_routine(self):
         return [
