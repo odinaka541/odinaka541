@@ -18,10 +18,10 @@ class DataScientist:
     
     def daily_routine(self):
         return [
-            "Train models that beat benchmarks",
-            "Find patterns others miss", 
-            "Deploy systems that scale",
-            "Generate alpha for clients"
+            "train models that beat benchmarks",
+            "find patterns others miss", 
+            "deploy systems that scale",
+            "fundzzz"
         ]
 ```
 
