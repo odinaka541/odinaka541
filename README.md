@@ -35,7 +35,7 @@ class DataScientist:
 
 **Private Equity Analytics** - Applying ML to identify undervalued SME opportunities and operational improvements
 
-## 🛠Tech Arsenal
+## Tech Arsenal
 
 **Languages:** `Python` `R` `SQL` `C++` *(learning)*
 
