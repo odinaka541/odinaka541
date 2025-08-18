@@ -4,7 +4,7 @@
 
 ## What I'm About
 
-**Data Scientist & AI Engineer** obsessed with turning data into alpha. Currently architecting AI systems that make sense of the world's messiest datasets while building the next generation of financial technology.
+**Data Scientist & AI Engineer** obsessed with turning data into gold. Currently architecting AI systems that make sense of the world's messiest datasets while building the next generation of financial technology.
 
 **The mission:** Create AI so precise, so unbeatable, that it changes how we think about data forever.
 
