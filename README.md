@@ -26,12 +26,11 @@ class DataScientist:
 ```
 
 ## Current Projects
+**All-in-one investment platform for African angels, VCs** - 
 
 **AI-Powered Semantic Search Engine** - Multi-modal search across visual datasets using CLIP, BLIP, and custom algorithms
 
 **Quantitative Trading Platform** - Building systematic strategies that consistently outperform market benchmarks
-
-**Enterprise Data Platform** - NLP-first approach to making any dataset instantly accessible and actionable
 
 **Private Equity Analytics** - Applying ML to identify undervalued SME opportunities and operational improvements
 
