@@ -30,13 +30,11 @@ class DataScientist:
 
 **AI-Powered Semantic Search Engine** - Multi-modal search across visual datasets using CLIP, BLIP, and custom algorithms
 
-**Quantitative Trading Platform** - Building systematic strategies that consistently outperform market benchmarks
-
-**Private Equity Analytics** - Applying ML to identify undervalued SME opportunities and operational improvements
+**Quantitative Finance Research** - Building systematic strategies that consistently outperform market benchmarks
 
 ## Tech Arsenal
 
-**Languages:** `Python` `R` `SQL` `C++` *(learning)*
+**Languages:** `Python` `Tsx` `R` `SQL` `C++` *(learning)*
 
 **ML & AI:** `Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `CLIP` `BLIP` `YOLO`
 
